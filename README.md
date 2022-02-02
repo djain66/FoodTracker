@@ -1,1 +1,1 @@
-#FoodTracker App
+FoodTracker App
